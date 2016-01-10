@@ -105,7 +105,7 @@ public class MainActivity extends FragmentActivity {
         position_two = position_one * 2;
         position_three = position_one * 3;
         
-        int a = 1;
+        int a = 2;
 	int b = 0;
 	int c = 0;
 	
