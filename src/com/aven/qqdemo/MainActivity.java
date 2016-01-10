@@ -104,6 +104,9 @@ public class MainActivity extends FragmentActivity {
         position_one = (int) (screenW / 4.0);
         position_two = position_one * 2;
         position_three = position_one * 3;
+        
+        int a = 0;
+	int b = 0;
     }
 
     public class MyOnClickListener implements View.OnClickListener {
