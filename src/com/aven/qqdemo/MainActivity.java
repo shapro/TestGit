@@ -107,6 +107,7 @@ public class MainActivity extends FragmentActivity {
         
         int a = 0;
 	int b = 0;
+	int c = 0;
     }
 
     public class MyOnClickListener implements View.OnClickListener {
